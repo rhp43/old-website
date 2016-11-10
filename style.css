@@ -1,0 +1,83 @@
+@import url ('https://fonts.google.com/specimen/Amaranth');
+@import url ('https://fonts.googleapis.com/css?family=Paytone+One');
+
+body {
+  font-size: 20px;
+  font-family: "Helvetica";
+  background-color:black;
+}
+
+h1,h2,h3,p{
+padding-left: 30px;
+}
+
+a{
+  color: black;
+}
+a:visited{
+  color:blue;
+}
+
+a:hover{
+  color:orange;
+}
+a:active{
+  color:gray;
+}
+
+
+
+
+#container {
+  max-width: 960px;
+  margin: 0 auto;
+  border-width: solid;
+  background-color: gray;
+}
+
+h1{
+  text-align: middle;
+  color: black;
+  font-size: 80px;
+  text-shadow:8px 8px 8px #aaa;
+  font-family:'Paytone One', sans-serif;}
+
+#education {
+border-top: 2px solid rgb (33, 37, 42);
+}
+
+  #education {
+  border-bottom: 2px solid rgb (33, 37, 42);
+  }
+
+section {
+  border-bottom: 2px solid;
+}
+
+#intro{
+
+}
+/*
+header {
+  background #(rgb90,0,0255);
+  color:444;
+}
+
+header em {
+  front-weight: bold;
+}
+
+header a {
+  background-color: #eee
+  color: #
+}
+aside img {
+  border-width:
+  border-style:
+  border-color:
+}
+aside em {
+  font-style: italic;
+  color: #
+  font-size:
+}*/
