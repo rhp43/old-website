@@ -14,10 +14,11 @@ padding-lift: 30px;
 #container {
   max-width: 960px;
   min-width: 0px;
+  float: right;
   margin: 0 auto;
   height: 100%;
-  padding: 30px;
 }
+
 a{
   color: black;
 }
