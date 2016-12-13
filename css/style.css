@@ -1,0 +1,97 @@
+@import url ('https://fonts.googleapis.com/css?family=Source+Serif+Pro');
+@import url ('https://fonts.googleapis.com/css?family=Paytone+One');
+
+body {
+  font-size: 20px;
+  font-family: 'serif pro';
+  background-color: #92caf5;
+}
+
+header,h1,h2,h3,p{
+padding-lift: 30px;
+}
+
+#container {
+  max-width: 960px;
+  margin: 0 auto;
+  height: 100%;
+}
+a{
+  color: black;
+}
+a:visited{
+  color:blue;
+}
+
+a:hover{
+  color:orange;
+}
+a:active{
+  color:gray;
+}
+#info p{
+  width: 20%;
+}
+.para1 {
+  width: 600px;
+  float: left;
+  border-width: medium;
+  border-style: solid;
+  border-color: black;
+  padding: 25px;
+}
+.para2 {
+  width: 600px;
+  float: left;
+  border-width: medium;
+  border-style: solid;
+  border-color: black;
+  padding: 25px;
+}
+
+
+section {
+  width: 200px;
+  right:right;
+}
+
+#image11 {
+  float:left;
+  margin-right: 50px;
+  margin-top: 20px;
+  z
+}
+
+
+
+}
+#image2 {
+  float:left;
+  margin-right: 50px;
+}
+
+#images3 {
+  float:left;
+  margin-right: 50px;
+}
+
+#image4{
+  float:left;
+  margin-right: 50px;
+}
+#container {
+  max-width: 980px;
+  margin: 0 auto;
+  border-width: solid;
+}
+
+h1{
+  text-align: center;
+  color: white;
+  font-size: 100px;
+  text-shadow:8px 8px 8px #aaa;
+  font-family:'Paytone One', sans-serif;}
+
+#main_nav{
+  text-align: center;
+}
