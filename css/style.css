@@ -95,3 +95,7 @@ h1{
 #main_nav{
   text-align: center;
 }
+footer {
+  padding-top: 625px;
+  position:absolute;
+}
