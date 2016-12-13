@@ -60,7 +60,6 @@ section {
   float:left;
   margin-right: 50px;
   margin-top: 20px;
-  z
 }
 
 
@@ -80,11 +79,7 @@ section {
   float:left;
   margin-right: 50px;
 }
-#container {
-  max-width: 980px;
-  margin: 0 auto;
-  border-width: solid;
-}
+
 
 h1{
   text-align: center;
